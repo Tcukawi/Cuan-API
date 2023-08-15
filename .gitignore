@@ -1,0 +1,15 @@
+node_modules
+_IGNORE_session
+**.data.json
+
+dist
+output
+
+# managed by open-wa
+**.node-persist**
+**_IGNORE_**
+# end managed by open-wa
+
+.env
+core.*
+.vercel
